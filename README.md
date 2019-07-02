@@ -82,7 +82,7 @@ $ sudo ./install.sh
 >> pip install pyinstaller # Installing Pyinstaller
 >> mkdir compile           # Optional directory name
 >> cd compile
->> pyinstaller --windowed --onefile --icon=Icon.ico /source/Win32/GUI.py # For sysematic version ( /sys ), remove --onefil
+>> pyinstaller --windowed --onefile --icon=Icon.ico /source/Win32/GUI.py # For sysematic version ( /sys ), remove --onefile
 >> cd dist
 >> GUI.exe                 # The compiled executable :}
 ```

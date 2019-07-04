@@ -36,7 +36,7 @@ $ #Temporary usage only, installation below
 $ git clone https://github.com/Zenix-Blurryface/SneakyEXE.git
 $ cd SneakyEXE/Linux
 $ chmod +x sneakyexe.py
-$ ./sneakyexe <option>=<payload/code> out=<path>
+$ ./sneakyexe <option>=<path to payload/code> out=<where you wanna save>
 ```
 [ Windows ]:
 * visit https://github.com/Zenix-Blurryface/SneakyEXE

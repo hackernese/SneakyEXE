@@ -11,9 +11,11 @@
                                                        /$$  | $$                              
                                                       |  $$$$$$/                              
                                                        \______/   
-A tool which helps you embedding UAC-Bypassing functionalities into your custom Win32 payloads ( x86_64 architecture specifically )
+A tool which helps you embedding UAC-Bypassing function into your custom Win32 payloads ( x86_64 architecture specifically )
 - Tested on Windows 7,8,10 ( 64bit)
 - Free and Open-sourced with full source codes published
++ Tutorial : https://www.youtube.com/watch?v=12efahUc-nU ( or for information, r
+
 ### Requirements:
 ---
 ||Linux|Windows|
@@ -49,8 +51,6 @@ $ ./sneakyexe <option>=<path to payload/code> out=<where you wanna save>
 - NOTE -
 The payload can only be successfully executed by the user with Administrator privilege. Users with limited token wouldn't succeed.
 ```
-+ Tutorial : https://www.youtube.com/watch?v=12efahUc-nU )
-
 
 ### Installation:
 ---

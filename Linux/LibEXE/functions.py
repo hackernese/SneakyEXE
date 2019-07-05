@@ -136,7 +136,7 @@ class LoadBinary:
 					self.d = self.DataPass.read(10000)
 		sys.stdout.write("[%s] : %s\n" %(
 				colored("CREATED", "green", attrs=["bold"]),
-				self.Desti+self.Dirname
+				self.Desti+"/"+self.Dirname
 			)
 		)
 		sys.stdout.flush()

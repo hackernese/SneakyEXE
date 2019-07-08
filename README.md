@@ -77,7 +77,7 @@ $ sudo ./install.sh
 >> gcc -mwindows -o <output>.exe /source/main.c
 ```
 ###### [ GUI Version ]
-- In order to build the GUI version from source, you will need `Python 3.5.6` ( or higher ) with modules like `Pyinstaller`, `Pillow` and a AMD64 machine with Windows 10 (7/8) 64-bit installed.
+- In order to build the GUI version from source, you will need `Python 3.5.6` ( or higher ) with modules like `Pyinstaller`, `Pillow` and a AMD64 machine with Windows 7 64-bit installed.
 ```sh
 # Assume we already had  Python preinstalled
 # Open cmd.exe / powershell.exe

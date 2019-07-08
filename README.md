@@ -14,7 +14,7 @@
 A tool which helps you embedding UAC-Bypassing function into your custom Win32 payloads ( x86_64 architecture specifically )
 - Tested on Windows 7,8,10 ( 64bit)
 - Free and Open-sourced with full source codes published
-+ Tutorial : https://www.youtube.com/watch?v=12efahUc-nU ( or for information, r
++ Tutorial : https://www.youtube.com/watch?v=12efahUc-nU ( or for more information, read README.md )
 
 ### Requirements:
 ---

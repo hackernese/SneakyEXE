@@ -15,7 +15,7 @@
  #==============================[Description]========================================#
  #                                                                                   #
  # >> bio : Customize payloads and help it elevating privlege, Bypassing UAC         #
- # >> Author  : Zenix Blurryface ( Hackernese's admin )                              #
+ # >> Author  : Zenix Blurryface                                                     #
  # >> Version : v1.2 demo                                                            #
  # >> License : It was mostly self-written but this tool does embed UACme - Author : #
  #              hfiref0x : https://github.com/hfiref0x                               #

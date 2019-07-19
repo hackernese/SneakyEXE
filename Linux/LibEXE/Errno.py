@@ -8,4 +8,4 @@ FOENT  = 2 # File doesn't exist
 ACCESS = 13 # Permission denied
 INTERUPT = 500 # KeyboardInterruption
 ABORT  = 404   # Aborted opreation
-UNEXPECTED = 1975 # Indicates unexpected error :}
+UNEXPECTED = 1975 # Indicates unexpected errors :}
